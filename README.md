@@ -10,6 +10,11 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
+Place yourself in the folder.
+Enter the following command :
+```
+$ bundle install
+```
 
 * Database creation
 
